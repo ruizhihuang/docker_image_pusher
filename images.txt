@@ -1,4 +1,3 @@
-nginx
 ossrs/srs-stack
 ossrs/oryx
 #支持私库
